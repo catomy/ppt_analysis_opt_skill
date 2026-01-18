@@ -29,7 +29,7 @@ prs.save("presentation_optimized.pptx")
 
 ## Features
 
-### 6 Analysis Dimensions
+### 1 Analysis Dimensions
 
 1. **逻辑结构** - Pyramid Principle (结论先行、MECE、逻辑递进）
 2. **语言表达** - Complete sentences, professional tone
@@ -38,7 +38,7 @@ prs.save("presentation_optimized.pptx")
 5. **数据支撑** - Claims require data with sources
 6. **视觉设计** - Color consistency, alignment, whitespace
 
-### 7 Problem Types
+### 2 Problem Types
 
 | Type | Priority | Description |
 |------|----------|-------------|
